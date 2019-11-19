@@ -86,7 +86,7 @@ Installation
 
 1. 라이브러리 다운로드하기 
 
-   1. 웹브라우져에서 **JellibiPin** 라이브러리의 깃허브(https://github.com/signaled/JellibiPin)로  이동합니다.
+   1. 웹브라우져에서 **JellibiPin** 라이브러리의 깃허브(https://github.com/RobotNMore/JellibiPin) 로  이동합니다.
    2. 깃허브의 Code 탭에서 [Clone or download] 버튼을 눌러 "zip" 파일로 다운로드를 선택합니다.   
       ![Download](http://www.robotnmore.com/matthew/jellibibutton/download_button2.png)
 
